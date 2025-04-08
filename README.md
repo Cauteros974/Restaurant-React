@@ -2,6 +2,6 @@
 
 React - v17.0.2
 
-Reacr-DOM - 17.0.2
+Reacr-DOM - v17.0.2
 
-React-scripts - 4.0.0
+React-scripts - v4.0.0
